@@ -12,6 +12,8 @@ public class HelloD00d {
    public static void main(String[] args) { 
    
       System.out.println("Hey d00d!"); 
+      
+      System.out.println("Hey again d00d!"); 
    
    }
 } 
